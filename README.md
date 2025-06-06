@@ -1,2 +1,2 @@
 # Aurya
-ASite oficial da Aurya, IA emocional e interativa”
+Site oficial da Aurya, IA emocional e interativa”
